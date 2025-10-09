@@ -1,0 +1,18 @@
+let mix_array = ["Khadija", "Tayyaba", "True", "5", "1"];
+console.log(mix_array);
+mix_array.pop();
+console.log(mix_array);
+mix_array.pop();
+console.log(mix_array);
+mix_array.push("9");
+console.log(mix_array);
+mix_array.push("14");
+console.log(mix_array);
+mix_array.shift();
+console.log(mix_array);
+mix_array.shift();
+console.log(mix_array);
+mix_array.unshift("Hafsa");
+console.log(mix_array);
+mix_array.unshift("Kubra");
+console.log(mix_array);
