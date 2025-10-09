@@ -16,3 +16,5 @@ mix_array.unshift("Hafsa");
 console.log(mix_array);
 mix_array.unshift("Kubra");
 console.log(mix_array);
+console.log(mix_array[4]);
+console.log(mix_array[2]);
